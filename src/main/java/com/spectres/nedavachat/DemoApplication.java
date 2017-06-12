@@ -1,4 +1,4 @@
-package com.example.nedavachat;
+package com.spectres.nedavachat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
