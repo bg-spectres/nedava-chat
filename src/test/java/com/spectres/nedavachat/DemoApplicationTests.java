@@ -1,4 +1,4 @@
-package com.example.nedavachat;
+package com.spectres.nedavachat;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
