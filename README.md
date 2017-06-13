@@ -27,3 +27,6 @@ mvn dependency:sources
 mvn dependency:resolve -Dclassifier=javadoc
 ```
 repeat mvn eclipse:eclipse safter this to refresh build path and libraries
+
+#### current username/password
+user/endava123
