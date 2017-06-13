@@ -13,7 +13,7 @@ A very chatty webapp :)
 ```
 mvn spring-boot:run
 ```
-or, pack into a jar and running it..
+or, pack into a jar and run it..
 ```
 mvn package
 java -jar target/*.jar
